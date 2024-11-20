@@ -1,4 +1,4 @@
-# GovCMS "require-dev" composer package.
+# GovCMS "require-dev" composer package. - ARCHIVED
 
 This package provides a similar function to [webflo/drupal-core-require-dev](https://github.com/webflo/drupal-core-require-dev).
 For GovCMS it centralises a standard list of testing and related tooling.
